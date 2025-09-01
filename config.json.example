@@ -1,0 +1,15 @@
+{
+  "url": "https://cursor.com/cn/agents",
+  "wait_timeout": 10,
+  "page_load_delay": 3,
+  "field_delay": 0.5,
+  "submit_delay": 3,
+  "close_delay": 5,
+  "form_data": {
+    "name": "你的真实姓名",
+    "email": "your.real.email@example.com",
+    "company": "你的公司名称",
+    "phone": "你的真实电话号码",
+    "message": "我想了解更多关于Cursor Agents的信息，请提供相关资料和演示。"
+  }
+}
